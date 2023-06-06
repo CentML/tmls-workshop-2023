@@ -2,7 +2,7 @@
 
 This repository contains the necesary files for the workshop.
 
-If you which to run locally, you will need:
+If you wish to run locally, you will need:
 
 - Pytorch >=2.0.0
 - Nvidia Apex package (https://github.com/NVIDIA/apex)
